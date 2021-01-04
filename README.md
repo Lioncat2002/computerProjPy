@@ -6,8 +6,9 @@ Oh and there's a [questions.md](Questions.md) file in there which contains all t
 
 
 # Requirements
-The following libraries need to be installed:
+The following libraries/softwares need to be installed:
 1. matplotlib
 2. numpy
-
-and python 3.8 or newer
+3. mysqlconnector
+4. python 3.8 or newer
+5. mysql
